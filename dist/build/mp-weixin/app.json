@@ -1,0 +1,18 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/edit/edit",
+    "pages/custom-settings/custom-settings",
+    "pages/settings/settings",
+    "pages/type-select/type-select",
+    "pages/style-library/style-library",
+    "pages/share-poster/share-poster"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "Tracese",
+    "navigationBarBackgroundColor": "#F0F4F8",
+    "backgroundColor": "#F0F4F8"
+  },
+  "usingComponents": {}
+}
