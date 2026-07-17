@@ -1,0 +1,1 @@
+"use strict";const e=require("../common/vendor.js"),t=require("../constants/storage.js");exports.useStatusBarHeight=function(){const s=e.ref(t.DEFAULT_STATUS_BAR_HEIGHT);return e.onMounted(()=>{e.index.getSystemInfo({success(e){s.value=e.statusBarHeight??t.DEFAULT_STATUS_BAR_HEIGHT}})}),s};
