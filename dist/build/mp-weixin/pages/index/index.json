@@ -1,0 +1,13 @@
+{
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "app-card": "../../components/AppCard",
+    "stats-chart": "../../components/StatsChart",
+    "habit-heatmap": "../../components/HabitHeatmap",
+    "birthday-flip-panel": "../../components/BirthdayFlipPanel",
+    "countdown-flip-panel": "../../components/CountdownFlipPanel",
+    "plan-focus-panel": "../../components/PlanFocusPanel",
+    "onboarding-overlay": "../../components/OnboardingOverlay"
+  }
+}
