@@ -1,0 +1,1 @@
+"use strict";exports.DEFAULT_STATUS_BAR_HEIGHT=20,exports.MAX_PINNED_CARDS=4,exports.STORAGE_KEYS={CARDS:"every_trace_cards",THEME:"theme",HAPTIC:"hapticEnabled",MONTHLY_BUDGET:"monthlyBudget",ONBOARDING_COMPLETED:"onboarding_completed"};
